@@ -6,7 +6,6 @@ namespace NUnitTestProject1
 {
     public class Tests
     {
-
         Validation validation;
         Program program;
         List<ContactDetails> list = new List<ContactDetails>();
